@@ -4,5 +4,3 @@
 
 ksjdsajkldajk
 djskadjaks
-
-[lorem ipsum] (http://google.com)
